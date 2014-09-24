@@ -1,1 +1,1 @@
-web: PORT=$PORT app
+web: PORT=$PORT ./app
